@@ -23,7 +23,6 @@ class TimRedfin:
         """
         Parse the region id from the response.
         """
-        breakpoint
         return int(search_response["payload"]["exactMatch"]["id"][2:])
 
 
