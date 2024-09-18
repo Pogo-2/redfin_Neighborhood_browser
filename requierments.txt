@@ -1,0 +1,7 @@
+pydantic
+redfin
+pandas
+scrapfly-sdk
+pytest
+streamlit
+scipy
